@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<img align="left" src="https://github.com/constantinosgeorgiou/gifs/blob/master/tech/laptop.gif">
-
-
+<p align="center">
+    <img width="200" src="https://github.com/constantinosgeorgiou/gifs/blob/master/tech/laptop.gif">
+</p>
 <!--
 **constantinosgeorgiou/constantinosgeorgiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
